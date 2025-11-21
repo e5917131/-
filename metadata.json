@@ -1,0 +1,5 @@
+{
+  "name": "台灣美食地圖",
+  "description": "Select a city and district in Taiwan to discover top-rated local food spots powered by Gemini and Google Maps.",
+  "requestFramePermissions": []
+}
